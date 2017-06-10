@@ -6091,7 +6091,7 @@ On clicking the "tx" button, the list of shortcodes will appear as popup, select
 		<wp:comment>
 			<wp:comment_id>90</wp:comment_id>
 			<wp:comment_author><![CDATA[Bhupendra Mandal]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url>http://www.templatesnext.in</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[182.69.213.78]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-08-22 12:33:14]]></wp:comment_date>
@@ -9186,7 +9186,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-marsian.mcs@gmail.com
+adminemail@yourdomain.com
 Reply-To: [your-email]
 
 0
@@ -9200,7 +9200,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
 [your-email]
-Reply-To: marsian.mcs@gmail.com
+Reply-To: adminemail@yourdomain.com
 
 0
 0
@@ -9250,7 +9250,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"adminemail@yourdomain.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -9258,7 +9258,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: adminemail@yourdomain.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10363,7 +10363,7 @@ Nunc luctus interdum nisi, vel viverra metus laoreet at. Vivamus eget pulvinar n
 1
 TemplatesNext "[your-subject]"
 [your-name] <wordpress@templatesnext.in>
-marsian.mcs@gmail.com
+adminemail@yourdomain.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -10385,7 +10385,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-Reply-To: marsian.mcs@gmail.com
+Reply-To: adminemail@yourdomain.com
 
 
 
@@ -10439,7 +10439,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"TemplatesNext "[your-subject]"";s:6:"sender";s:40:"[your-name] <wordpress@templatesnext.in>";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:4:"body";s:179:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"TemplatesNext "[your-subject]"";s:6:"sender";s:40:"[your-name] <wordpress@templatesnext.in>";s:9:"recipient";s:21:"adminemail@yourdomain.com";s:4:"body";s:179:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -10454,7 +10454,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:18:"additional_headers";s:31:"Reply-To: adminemail@yourdomain.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

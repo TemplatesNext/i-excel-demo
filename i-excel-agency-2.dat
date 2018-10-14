@@ -28,28 +28,7 @@ a:4:{s:8:"template";s:7:"i-excel";s:4:"mods";a:11:{i:0;b:0;s:18:"nav_menu_locati
 	z-index: 1;	
 } 
 
-.whiteoverlay1 {
-	position: relative;
-}
-.whiteoverlay1 > div {
-	position: relative;
-	z-index: 2;
-} 
-
-.whiteoverlay1:after {
-	position: relative;
-	position: absolute;
-	content: " ";
-	top: 0px;
-	right: 0px;
-	left: 0px;
-	bottom: 0px;
-	height: 100%;
-	width: 100%;
-	background-color: rgba(255,255,255,0.9);
-	z-index: 1;	
-} 
-
+.agency-2-overlay:after,
 .agency-2 .sow-slider-images li:before {
 	position: absolute;
 	left: 0px;
@@ -58,11 +37,7 @@ a:4:{s:8:"template";s:7:"i-excel";s:4:"mods";a:11:{i:0;b:0;s:18:"nav_menu_locati
 	bottom: 0px;
 	content: " ";
     background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -o-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -ms-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -moz-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -webkit-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-		opacity: 0.92;	
+	opacity: 0.92;	
 }
 
 .agency-2 .sow-slider-images .sow-hero-buttons a:hover span {
@@ -76,24 +51,6 @@ a:4:{s:8:"template";s:7:"i-excel";s:4:"mods";a:11:{i:0;b:0;s:18:"nav_menu_locati
 	position: relative;
 	z-index: 2;
 } 
-.agency-2-overlay:after {
-	position: relative;
-	position: absolute;
-	content: " ";
-	top: 0px;
-	right: 0px;
-	left: 0px;
-	bottom: 0px;
-	height: 100%;
-	width: 100%;
-    background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -o-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -ms-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -moz-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-    background: -webkit-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-	opacity: 0.9;
-} 
-
 .agency-2 .agency-2-wiredbut .so-widget-sow-button a:hover span {
 	color: #333333;
 }";}
